@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "IVY",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-03-03T07:11:23.903761Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ivy Ivy Ivy",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/01_Ivy_Ivy_Ivy_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ivy Ivy Ivy (Remastered)",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/02_Ivy_Ivy_Ivy_(Remastered)_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Holly & the Ivy",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/03_The_Holly_&_the_Ivy_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Holly And The Ivy",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/04_The_Holly_And_The_Ivy_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ivy Covered House",
+      "artist": "Ducktails",
+      "has_synced": true,
+      "path": "select/05_Ivy_Covered_House_Ducktails.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ivy",
+      "artist": "ericdoa",
+      "has_synced": true,
+      "path": "select/06_ivy_ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue (feat. Blue Ivy)",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/07_Blue_(feat._Blue_Ivy)_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Under the Ivy",
+      "artist": "Jem",
+      "has_synced": false,
+      "path": "select/08_Under_the_Ivy_Jem.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ivy",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/09_Ivy_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "For the Love of Ivy",
+      "artist": "The Gun Club",
+      "has_synced": true,
+      "path": "select/10_For_the_Love_of_Ivy_The_Gun_Club.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "As Ivy Groweth Green",
+      "artist": "Avrigus",
+      "has_synced": false,
+      "path": "select/11_As_Ivy_Groweth_Green_Avrigus.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ivy Boy",
+      "artist": "Polaris",
+      "has_synced": false,
+      "path": "select/12_Ivy_Boy_Polaris.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Let Me Down (feat. J. Ivy & Jay-Z)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/13_Never_Let_Me_Down_(feat._J._Ivy_&_Jay-Z)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ivy & Gold",
+      "artist": "Bombay Bicycle Club",
+      "has_synced": false,
+      "path": "select/14_Ivy_&_Gold_Bombay_Bicycle_Club.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "English Ivy",
+      "artist": "Rogue Valley",
+      "has_synced": true,
+      "path": "select/15_English_Ivy_Rogue_Valley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IVY",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_IVY_メガテラ・ゼロ.txt"
+    }
+  ]
+}
